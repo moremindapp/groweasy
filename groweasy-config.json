@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "pdfs": [
+    {
+      "title": "Puberty Guide",
+      "fileName": "puberty",
+      "url": "https://drive.google.com/uc?export=download&id=FILE_ID_1"
+    },
+    {
+      "title": "Healthy Relationships",
+      "fileName": "relationship",
+      "url": "https://drive.google.com/uc?export=download&id=FILE_ID_2"
+    }
+  ]
+}
